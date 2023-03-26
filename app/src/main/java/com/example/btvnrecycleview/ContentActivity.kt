@@ -19,6 +19,6 @@ class ContentActivity : AppCompatActivity(){
         img.setText(name)
         val nam2 = intent.getStringExtra("baba1")
         tv.setText(nam2)
-        tv.setInputExtras(contenttruyen)
+
     }
 }
